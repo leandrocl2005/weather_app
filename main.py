@@ -6,7 +6,7 @@ import requests
 
 
 # chave da api
-API_KEY = '9e413110bb5c662ffe88e53d4338cd8a'
+API_KEY = 'YOUR_API_KEY'
 
 # modelo de requisicao
 API_URL = ('http://api.openweathermap.org/data/2.5/weather?q={}&mode=json&units=metric&appid={}')
