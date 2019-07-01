@@ -5,7 +5,7 @@ import requests
 import math
 
 
-API_KEY = '9e413110bb5c662ffe88e53d4338cd8a'
+API_KEY = 'YOUR_API_KEY'
 API_URL = ('http://api.openweathermap.org/data/2.5/weather?q={}&mode=json&units=metric&appid={}')
 
 
